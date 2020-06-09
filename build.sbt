@@ -1,4 +1,4 @@
-ThisBuild / scalaVersion := "2.13.1"
+ThisBuild / scalaVersion := "2.13.2"
 
 lazy val root = (project in file(".")).settings(
   scalacOptions += "-Ymacro-annotations",
