@@ -1,6 +1,6 @@
 package example
 
-import java.time.Instant
+import java.time.Instant // unused
 import io.circe.generic.JsonCodec
 import io.circe.syntax._
 
